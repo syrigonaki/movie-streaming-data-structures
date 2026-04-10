@@ -36,4 +36,4 @@ make
 ./movie_service
 ```
 ---
-*This project was developed for the Data Structures Course*
+*This project was developed for the Data Structures Course. Some parts of the code were provided by the TAs of the course.*
